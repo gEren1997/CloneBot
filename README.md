@@ -50,7 +50,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 > user_ids = -1 = Your user id (go to @MissRose_bot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
 > 
 > group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id
-> 
+> gEren1997/clonebot_heroku
 > gclone_para_override = leave this empty if you don't know how to use it
 
 3. Install [python](https://www.python.org/downloads/)
